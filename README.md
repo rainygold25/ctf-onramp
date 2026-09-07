@@ -1,4 +1,4 @@
-# WECE CTF On-Ramp
+# CTF On-Ramp
 
 **Five beginner capture-the-flag challenges that run in Google Colab. No install, no server, no prior security background.**
 
